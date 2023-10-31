@@ -1,0 +1,23 @@
+{
+	"name": "parapipeline",
+	"properties": {
+		"parameters": {
+			"pp_file_system": {
+				"type": "string"
+			},
+			"pp_file_directory_in": {
+				"type": "string"
+			},
+			"pp_file_name": {
+				"type": "string"
+			},
+			"pp_file_directory_out": {
+				"type": "string"
+			},
+			"pp_file_directory_archive": {
+				"type": "string"
+			}
+		},
+		"annotations": []
+	}
+}
