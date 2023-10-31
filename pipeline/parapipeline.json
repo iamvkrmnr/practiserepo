@@ -93,16 +93,16 @@
 			"pp_file_system": {
 				"type": "string"
 			},
-			"pp_file_directory_in": {
+			"pp_directory_in": {
 				"type": "string"
 			},
 			"pp_file_name": {
 				"type": "string"
 			},
-			"pp_file_directory_out": {
+			"pp_directory_out": {
 				"type": "string"
 			},
-			"pp_file_directory_archive": {
+			"pp_directory_archive": {
 				"type": "string"
 			}
 		},
